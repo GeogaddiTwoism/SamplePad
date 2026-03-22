@@ -1,4 +1,4 @@
 numpy
 soundfile
-pygame
+pygame-ce
 matplotlib
